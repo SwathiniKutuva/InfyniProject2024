@@ -1,0 +1,19 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="smoke">
+
+    <test name="InfyniInternProject2024">
+
+
+        <classes>
+            <class name="TestCases.LoginTestCase"></class>
+            <class name="TestCases.DashBoardTestcase"></class>
+            <class name="TestCases.CoursesTestcase"></class>
+            <class name="TestCases.LogoutTestcase"></class>
+
+
+
+
+        </classes>
+    </test>
+</suite>
